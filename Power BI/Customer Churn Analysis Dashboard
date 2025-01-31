@@ -1,1 +1,39 @@
+Project Title:
+Customer Churn Analysis Dashboard
 
+Description:
+The Customer Churn Analysis Dashboard is an interactive tool designed to provide deep insights into customer behavior and identify key factors driving customer churn. By leveraging comprehensive customer metrics, billing details, and subscription patterns, this dashboard empowers data-driven decision-making aimed at reducing churn rates and enhancing customer retention strategies.
+
+Key Questions Addressed:
+How many customers have churned?
+
+What are the monthly and yearly charges for customers?
+
+What percentage of customers adopt paperless billing?
+
+What are the most common payment methods?
+
+What is the distribution of subscription periods among customers?
+
+What are the demographics of the customer base (e.g., dependents, senior citizens, partners, gender distribution)?
+
+What is the distribution of contract types among customers?
+
+Which additional services do customers frequently adopt?
+
+Achievements:
+Identified 1,869 churned customers.
+
+Analyzed monthly and yearly charges, revealing $139.13K monthly and $2.86M yearly revenue.
+
+Discovered that 74.91% of customers opt for paperless billing.
+
+Found electronic checks to be the most common payment method, followed by mailed checks, bank transfers, and credit card payments.
+
+Revealed that around 50% of customers have been subscribed for less than a year.
+
+Examined customer demographics, identifying that 17% are dependents, 25% are senior citizens, 36% have partners, with a near-equal gender distribution (Male: 49.76%, Female: 50.24%).
+
+Determined that month-to-month contracts make up 88.55% of the total.
+
+Highlighted additional services adoption rates: 91% for phone service, 44% for streaming TV and movies, and around 30% combined for device protection, online backup, and tech support.
