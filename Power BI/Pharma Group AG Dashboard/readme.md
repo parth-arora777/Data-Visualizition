@@ -25,8 +25,6 @@ This Power BI dashboard analyzes **Diversity & Inclusion** at **Pharma Group AG*
 ![SnapShots](https://github.com/user-attachments/assets/aaebd466-7b3d-45a0-b880-423d71dda85e)
 
 
-### **🚀 Live Dashboard**  
-[[Live Dashboard](https://app.powerbi.com/groups/592c0950-5811-4720-ad3a-12f33bd7903f/dashboards/128e0032-db2d-420a-a991-9d6b30f6cb38?ctid=9f5aa2dd-458b-426c-853b-406830d83d71&pbi_source=LinkShare/)]
  
 
 ### **📦 How to Use the Power BI File**  
