@@ -25,7 +25,7 @@
   </ul>
 
 ### **📊 Dashboard Preview**  
-![SnapShots](https://github.com/user-attachments/assets/aaebd466-7b3d-45a0-b880-423d71dda85e)
+<img src="https://github.com/parth-arora777/Data-Visualizition/blob/f1a3995fbe483de77d2d654ff7c11cf0050cb1da/Power%20BI/Customer%20Churn%20Analysis%20Dashboard/SnapShot.png">
 
 
  
