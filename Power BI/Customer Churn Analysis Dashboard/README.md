@@ -9,7 +9,7 @@
 - **Excel** – For data storage and pre-processing  
 
 ### **📂 Project Structure**  
-![image](https://github.com/user-attachments/assets/ee7bf78b-8de9-4f54-963a-d2ee8c4f6f39)
+<img src="https://github.com/parth-arora777/asset/blob/b70a977afb99c9e81cc8bd7e33bed4b7f834ac90/Screenshot%202025-05-13%20225553.png">
 
 
 
