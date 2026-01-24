@@ -15,6 +15,11 @@
 
 
 
+
+### **📊 Dashboard Preview**  
+<img src="https://github.com/parth-arora777/Data-Visualizition/blob/f1a3995fbe483de77d2d654ff7c11cf0050cb1da/Power%20BI/Customer%20Churn%20Analysis%20Dashboard/SnapShot.png">
+
+
  <h2>📌 Key Insights</h2>
   <ul>
     <li><strong>939 customers</strong> have churned in the dataset.</li>
@@ -24,9 +29,8 @@
     <li>Partner status, gender, and service subscriptions also influence churn likelihood.</li>
   </ul>
 
-### **📊 Dashboard Preview**  
-<img src="https://github.com/parth-arora777/Data-Visualizition/blob/f1a3995fbe483de77d2d654ff7c11cf0050cb1da/Power%20BI/Customer%20Churn%20Analysis%20Dashboard/SnapShot.png">
-
+  
+<img src="https://github.com/parth-arora777/asset/blob/a83d76d0e5d2feb3ff35c51d9ddbaba5ac5e5d31/unnamed.png">
 
  ### **📂 Mind Map**  
 <img src="https://github.com/parth-arora777/asset/blob/a83d76d0e5d2feb3ff35c51d9ddbaba5ac5e5d31/NotebookLM%20Mind%20Map.png">
