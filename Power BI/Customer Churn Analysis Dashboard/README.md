@@ -29,7 +29,7 @@
 
 
  ### **📂 Mind Map**  
-<img src="[https://github.com/parth-arora777/asset/blob/b70a977afb99c9e81cc8bd7e33bed4b7f834ac90/Screenshot%202025-05-13%20225553.png](https://github.com/parth-arora777/asset/blob/a83d76d0e5d2feb3ff35c51d9ddbaba5ac5e5d31/NotebookLM%20Mind%20Map.png)">
+<img src="https://github.com/parth-arora777/asset/blob/a83d76d0e5d2feb3ff35c51d9ddbaba5ac5e5d31/NotebookLM%20Mind%20Map.png">
 
 ### **📦 How to Use the Power BI File**  
 1️⃣ **Download** the `.pbix` file from this repo  
